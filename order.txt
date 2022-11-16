@@ -1,0 +1,5 @@
+O10441,Paid,dd,Rice,Rice,Rice
+O16749,Not Paid,No Feedback,Rice,Rice,Rice,Rice,Rice,Ayam Goreng,Ayam Goreng,Ayam Goreng,Ayam Goreng,Ayam Goreng
+O18828,Paid,Very good.,Rice
+O12406,Paid,taste like shit,CHICKEN,CHICKEN,CHICKEN,CHICKEN,CHICKEN,CHICKEN,CHICKEN,CHICKEN
+O10993,Paid,nice,CHICKEN,CHICKEN,CHICKEN
